@@ -25,11 +25,11 @@ a {
   text-decoration: none;
   font-size: 1.5rem;
   transition: all .4s;
-  padding: .5rem .75rem;
+  
   
 }
 a:hover {
-  color: #ffffff;
   border-radius: 0.5rem;
-  border: 2px solid #ffffff;
+  border: 2px solid currentColor;
+  padding: 5px;
 }
