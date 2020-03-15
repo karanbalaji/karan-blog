@@ -1,20 +1,35 @@
-.navigation {
+.navigation{
   display: flex;
-  justify-content: center;
   list-style: none;
+  justify-content: left;
   padding: 0;
   margin: 0;
   height: 20vh;
   max-height: 100px;
   font-size: 1.25em;
+  text-decoration: none;
 }
+
 
 .navigationItem {
   display: inline-flex;
   align-items: center;
   margin: 0 1em;
+  color: #ffffff
 }
 
 .navigationItem a {
   color: currentColor;
+}
+a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  transition: all .4s;
+  padding: .5rem .75rem;
+  
+}
+a:hover {
+  color: #ffffff;
+  border-radius: 0.5rem;
+  border: 2px solid #ffffff;
 }

@@ -1,0 +1,306 @@
+[
+  {
+    "ts": "2020-03-14T23:44:29.857Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "nnd2zdjv01a1"
+            }
+          },
+          "id": "7orLdboQQowIUs22KAW4U",
+          "type": "Asset",
+          "createdAt": "2020-03-14T23:17:26.483Z",
+          "updatedAt": "2020-03-14T23:44:08.053Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-03-14T23:17:32.491Z",
+          "firstPublishedAt": "2020-03-14T23:17:32.491Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Sparkler"
+          },
+          "description": {
+            "en-US": "John with Sparkler"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/jpeg",
+              "fileName": "matt-palmer-254999.jpg",
+              "upload": "https://images.contentful.com/28p9vvm1oxuw/7orLdboQQowIUs22KAW4U/a97cd3b3415b51c5facfa6f4d184b650/matt-palmer-254999.jpg"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "/Users/karanbalaji/Documents/work/1-portfolio/karan-blog/content-full/karan-blog/node_modules/contentful-management/dist/contentful-management.node.js:10631:21",
+        "processTicksAndRejections (internal/process/task_queues.js:97:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-03-14T23:44:29.869Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "nnd2zdjv01a1"
+            }
+          },
+          "id": "4shwYI3POEGkw0Eg6kcyaQ",
+          "type": "Asset",
+          "createdAt": "2020-03-14T23:17:26.610Z",
+          "updatedAt": "2020-03-14T23:44:08.051Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-03-14T23:17:32.729Z",
+          "firstPublishedAt": "2020-03-14T23:17:32.729Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Man in the fields"
+          },
+          "description": {
+            "en-US": "Tattooed man walking in a field"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/jpeg",
+              "fileName": "felix-russell-saw-112140.jpg",
+              "upload": "https://images.contentful.com/28p9vvm1oxuw/4shwYI3POEGkw0Eg6kcyaQ/eeaa6df85fb4452ea69ad18c98ffc015/felix-russell-saw-112140.jpg"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "/Users/karanbalaji/Documents/work/1-portfolio/karan-blog/content-full/karan-blog/node_modules/contentful-management/dist/contentful-management.node.js:10631:21",
+        "processTicksAndRejections (internal/process/task_queues.js:97:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-03-14T23:44:29.899Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "nnd2zdjv01a1"
+            }
+          },
+          "id": "4NzwDSDlGECGIiokKomsyI",
+          "type": "Asset",
+          "createdAt": "2020-03-14T23:17:26.476Z",
+          "updatedAt": "2020-03-14T23:44:08.048Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-03-14T23:17:32.896Z",
+          "firstPublishedAt": "2020-03-14T23:17:32.896Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "City"
+          },
+          "description": {
+            "en-US": "City pictured from the sky"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/jpeg",
+              "fileName": "denys-nevozhai-100695.jpg",
+              "upload": "https://images.contentful.com/28p9vvm1oxuw/4NzwDSDlGECGIiokKomsyI/d04a5154fa2e2ab02857950639325684/denys-nevozhai-100695.jpg"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "/Users/karanbalaji/Documents/work/1-portfolio/karan-blog/content-full/karan-blog/node_modules/contentful-management/dist/contentful-management.node.js:10631:21",
+        "processTicksAndRejections (internal/process/task_queues.js:97:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-03-14T23:44:29.930Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "nnd2zdjv01a1"
+            }
+          },
+          "id": "6Od9v3wzLOysiMum0Wkmme",
+          "type": "Asset",
+          "createdAt": "2020-03-14T23:17:26.657Z",
+          "updatedAt": "2020-03-14T23:44:08.049Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-03-14T23:17:33.060Z",
+          "firstPublishedAt": "2020-03-14T23:17:33.060Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4YXgzdB89AQiMMwb9xpQrm"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Woman with black hat"
+          },
+          "description": {
+            "en-US": "Woman wearing a black hat"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/jpeg",
+              "fileName": "cameron-kirby-88711.jpg",
+              "upload": "https://images.contentful.com/28p9vvm1oxuw/6Od9v3wzLOysiMum0Wkmme/95675d379a1284015a8210ca66cc53a5/cameron-kirby-88711.jpg"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "/Users/karanbalaji/Documents/work/1-portfolio/karan-blog/content-full/karan-blog/node_modules/contentful-management/dist/contentful-management.node.js:10631:21",
+        "processTicksAndRejections (internal/process/task_queues.js:97:5)"
+      ]
+    }
+  }
+]
