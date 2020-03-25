@@ -10,12 +10,9 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 1em;
   line-height: 1.65;
-  background: #333;
   margin: 0;
+  background: #333;
 }
-
-
-
 
 img {
   display: block;
@@ -76,3 +73,13 @@ a {
   display: inline-block;
   color: #333
 }
+
+nav {
+  display: block;
+  background: #333 !important ;
+  box-shadow: 10px black !important;
+};
+
+
+
+
