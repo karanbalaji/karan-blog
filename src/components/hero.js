@@ -15,7 +15,7 @@ export default ({ data }) => (
       <h3 className={styles.heroHeadline}>
       <TextLoop springConfig={{ stiffness: 180, damping: 12, fade: true }}>
                     <span>My Name is&nbsp;</span>
-                    <span>J'm appele&nbsp;</span>
+                    <span>Je m'appele&nbsp;</span>
                     <span>என் பெயர்&nbsp;</span>
                 </TextLoop>
                 

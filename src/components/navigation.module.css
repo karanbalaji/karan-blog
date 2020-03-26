@@ -8,6 +8,7 @@
   max-height: 100px;
   font-size: 1.25em;
   text-decoration: none;
+  
 }
 
 
@@ -15,7 +16,7 @@
   display: inline-flex;
   align-items: center;
   margin: 0 1em;
-  color: #ffffff
+  color: #fff
 }
 
 .navigationItem a {
@@ -28,8 +29,4 @@ a {
   
   
 }
-a:hover {
-  border-radius: 0.5rem;
-  border: 2px solid currentColor;
-  padding: 5px;
-}
+
