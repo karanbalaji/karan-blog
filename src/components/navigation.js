@@ -11,6 +11,9 @@ export default () => (
       <li className={styles.navigationItem}>
       <a href="https://karanbalaji.com"  target="_self" rel="Portfolio">PORTFOLIO</a>
       </li>
+      <li className={styles.navigationItem}>
+      <a href="https://help.karanbalaji.com"  target="_self" rel="Portfolio">HELP</a>
+      </li>
       {/* whenClicked is a property not an event, per se. 
       <li className={styles.navigationItem}>
         <Link to="/blog/">Blog</Link>
