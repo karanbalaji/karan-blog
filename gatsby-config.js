@@ -41,12 +41,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-hotjar-tracking`,
+      resolve: `gatsby-plugin-hotjar`,
       options: {
-        includeInDevelopment: false,
-        id: 1745332,
+        id: 1745396,
         sv: 6,
-      }
+      },
     },
 
   ],
